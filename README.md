@@ -14,22 +14,23 @@ We first define three levels of abstraction, ranging from coarse to fine-grained
 **RQ2** (Semantic Complexity): To what extent do variations in semantic complexity of individual input questions to ChatGPT affect the correctness and pertinence of STPA results?
 **RQ3** (Prompt Guideline): Does the utilisation of syntactic-level prompt guidelines affect the correctness and pertinence of STPA results?
 
-## Answer t0 RQ1 
+## Answer to RQ1 
 We consider three collaboration schemes  incorporating ChatGPT into the STPA workflow in the case studies.
-![Image text]()
+![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new7.png)
 Three ways of incorporating ChatGPT in the workflow of how human safety experts perform STPA: (a) One-off simplex collaboration (b) Recurring simplex collaboration (c) Recurring duplex collaboration.
-![Image text]()
+![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new31.png)
+![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new32.png)
 The Venn diagram of the sets of UCAs for the AEB system and the DSM system. The different colour represents the baseline (green), one-off simplex collaboration case (yellow), recurring simplex collaboration case (blue) and recurring duplex collaboration case (orange) respectively
 
-## Answer t0 RQ2 
-Box and whisker plots of samples for RQ2 ((a) Number of correct UCAs across 3 groups of samples (b) Proportion of correct UCAs across 3 groups of samples)
-![Image text]()
-![Image text]()
+## Answer to RQ2 
+Box and whisker plots of samples for RQ2 (LEft Number of correct UCAs across 3 groups of samples (b) Proportion of correct UCAs across 3 groups of samples)
+![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new33.png)
+![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new34.png)
 
-## Answer t0 RQ3 
+## Answer to RQ3 
 Box and whisker plots of samples for RQ3 ((a) Number of correct UCAs across 2 groups of samples (b) Proportion of correct UCAs across 3 groups of samples)
-![Image text]()
-![Image text]()
+![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new35.png)
+![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new36.png)
 
 ## Discusstion
 ![Image text](https://raw.githubusercontent.com/YiQi0318/ChatGPT-STPA/main/IMG/fig4.png)
