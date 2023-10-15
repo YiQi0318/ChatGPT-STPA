@@ -24,11 +24,17 @@ The Venn diagram of the sets of UCAs for the AEB system and the DSM system. The 
 
 ## Answer to RQ2 
 Box and whisker plots of samples for RQ2 (Left: Number of correct UCAs across 3 groups of samples. Right: Proportion of correct UCAs across 3 groups of samples.)
-![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new33.png)![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new34.png)
+
+<p align="center">
+<img src = "https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new33.png" width = "435"><img src = "https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new34.png" width = "435">
+</p>
 
 ## Answer to RQ3 
 Box and whisker plots of samples for RQ3 (Left: Number of correct UCAs across 2 groups of samples. Right: Proportion of correct UCAs across 3 groups of samples.)
-![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new35.png)![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new36.png)
+
+<p align="center">
+<img src = "https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new35.png" width = "435"><img src = "https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new36.png" width = "435">
+</p>
 
 ## Discusstion
 ![Image text](https://raw.githubusercontent.com/YiQi0318/ChatGPT-STPA/main/IMG/fig4.png)
