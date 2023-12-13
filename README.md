@@ -40,6 +40,9 @@ Box and whisker plots of samples for RQ3 (Left: Number of correct UCAs across 2 
 ![Image text](https://raw.githubusercontent.com/YiQi0318/ChatGPT-STPA/main/IMG/fig4.png)
 Four-quadrant classification of risks with ways of mitigations.
 
+## Independent Review
+The "RQ2_results_highlight" and "RQ3_results_highlight" folders contain content for review by the independent STPA expert team. Each interaction with ChatGPT is saved in `.png` format. A black box in an image indicates findings which incorrect Unsafe Control Actions (UCA) are identified in these interactions, and the 'correct' UCA is defined as an answer that is both correct and useful in this paper.
+
 ## Note
 * Part of original ChatGPT response for each case (.mhtml) can be downloaded and opened locally using a web browser.
 * We utilised the plus versions of [ChatGPT](https://openai.com/blog/chatgpt) (GPT4) provided by the official source in this paper.
