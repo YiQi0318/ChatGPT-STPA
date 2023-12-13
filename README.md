@@ -41,7 +41,7 @@ Box and whisker plots of samples for RQ3 (Left: Number of correct UCAs across 2 
 Four-quadrant classification of risks with ways of mitigations.
 
 ## Independent Review
-The "RQ2_results_highlight" and "RQ3_results_highlight" folders contain content for review by the independent STPA expert team. Each interaction with ChatGPT is saved in `.png` format. A black box in an image indicates findings which incorrect Unsafe Control Actions (UCA) are identified in these interactions, and the 'correct' UCA is defined as an answer that is both correct and useful in this paper.
+The `RQ2_RQ3_val_pdf` folder contains `.pdf` type files that need to be independently reviewed. They contain all the results of RQ2 and RQ3. A black box in the file indicates findings which incorrect UCAs are identified in these interactions, and the 'correct' UCA is defined as an answer that is both correct and useful in this paper.
 
 ## Note
 * Part of original ChatGPT response for each case (.mhtml) can be downloaded and opened locally using a web browser.
