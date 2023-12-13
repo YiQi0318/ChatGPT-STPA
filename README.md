@@ -30,7 +30,7 @@ Box and whisker plots of samples for RQ2 (Left: Number of correct UCAs across 3 
 </p>
 
 ## Answer to RQ3 
-Box and whisker plots of samples for RQ3 (Left: Number of correct UCAs across 2 groups of samples. Right: Proportion of correct UCAs across 3 groups of samples.)
+Box and whisker plots of samples for RQ3 (Left: Number of correct UCAs across 3 groups of samples. Right: Proportion of correct UCAs across 3 groups of samples.)
 
 <p align="center">
 <img src = "https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new43.png" width = "400"><img src = "https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new42.png" width = "400">
