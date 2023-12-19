@@ -7,6 +7,10 @@ Impressed by the recent successful stories of ChatGPT in many domains, we first 
 We set the STPA results obtained by human safety experts as our baselines (published in [Comparison of the HAZOP, FMEA, FRAM, and STPA Methods for the Hazard Analysis of Automatic Emergency Brake Systems](https://asmedigitalcollection.asme.org/risk/article-abstract/8/3/031104/1115198/Comparison-of-the-HAZOP-FMEA-FRAM-and-STPA-Methods?redirectedFrom=fulltext) and [System-Theoretic Process Analysis (STPA) of Demand-Side Load Management in Smartgrids](https://www.researchgate.net/publication/364818821_STAMP_Workshop_2018_MIT_Partnership_for_Systems_Approaches_to_Safety_and_Security_PSASS_System-Theoretic_Process_Analysis_STPA_of_Demand-Side_Load_Management_in_Smartgrids)). 
 We maintained the same application scenario as in original papers, which are the AEB systems and DSM systems. For subsequent comparisons, we adopted the same methodology as the original studies.
 
+## Control Loop Structure
+Control loop structures of three complexity levels for the two baselines, **AEB** (first row) and **DSM** (second row) systems.
+![Image text](https://github.com/YiQi0318/ChatGPT-STPA/blob/main/IMG/new44.png)
+
 ## Research Questions
 We first define three levels of abstraction, ranging from coarse to fine-grained, that represents how human experts may interact with ChatGPT: *Workflow Level*, *Semantics Level* and *Syntax Level*. After that, we frame the following research questions (RQs),
 
